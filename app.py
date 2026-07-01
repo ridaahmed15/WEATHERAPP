@@ -10,6 +10,8 @@ st.set_page_config(
     layout="centered"
 )
 
+st.image("weather.png",use_container_width=True)
+
 st.title("🌤️ My Weather App")
 
 #sidebar
